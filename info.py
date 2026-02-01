@@ -17,7 +17,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "")
 
 
 # This Pictures Is For Start Message Picture, You Can Add Multiple By Giving One Space Between Each.
-PICS = (environ.get('PICS', 'https://graph.org/file/ce1723991756e48c35aa1.jpg')).split()
+PICS = (environ.get('PICS', 'https://graph.org/file/950654a1084989719b066-71b294241f26ec7fe4.jpg https://graph.org/file/79ad7ac0a0af86a78eb4a-53adaa87d6e54b4d4c.jpg https://graph.org/file/cec05fee8cec35eb868a4-147a4a2cbb36498ba6.jpg https://graph.org/file/dc7693337a77e9912dba5-5caf70bfa68e990512.jpg https://graph.org/file/6de67b52837677248406f-9ccfa09f21d25e5740.jpg https://graph.org/file/7318fff2542faaccbe3b6-c4cb41eeacdf8a0f05.jpg https://graph.org/file/1f70ca32411063d70ca9b-72c7d64d069243029b.jpg https://graph.org/file/3d3c925a526035c3b0373-7d93c5691ba6c833f9.jpg https://graph.org/file/967902a2211a35728968f-f280a21ca0c5087ce5.jpg https://graph.org/file/99e8276142ac9ed6b3fc8-f2f85171ea4eaea2cc.jpg')).split()
 
 
 # Admins & Users
@@ -196,5 +196,6 @@ else:
 # Don't Remove Credit @VJ_Bots
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
 # Ask Doubt on telegram @KingVJ01
+
 
 
